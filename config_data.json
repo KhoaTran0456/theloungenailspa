@@ -1,0 +1,635 @@
+{
+  "info": {
+    "salon": {
+      "store"   : "The Lounge Nail Spa",
+      "slug"    : "The-lounge-nail-spa",
+      "phone"   : "(925) 945-0340",
+      "p2hone" : "(510) 985-1148",
+      "p3hone" : "(510) 823-2344",
+      "email"   : "theloungeshop@aol.com",
+      "address" : "1323 Locust St, Walnut Creek, California 94596",
+      "address_2" : "Emeryville Public Market: 6001 Shellmound Ave. Emeryville, CA",
+      "address_3" : "Oakland Broadway Terrace: 5108 Broadway Ave. Oakland, CA",
+      "district": "Walnut Creek",
+      "state"   : "California 94596",
+      "time_1"  : "[Mon - Sat]: 10:00 AM - 07:00 PM",
+      "time_2"  : "[Sun]: 10:00 AM - 06:00 PM"
+    },
+    "social": {
+      "facebook"  : "http://facebook.com/villagenailbar2018",
+      "instagram" : "https://www.instagram.com/villagenailbar.tuscaloosa",
+      "google"    : "https://goo.gl/maps/ekLKgbySB5ujQhKBA",
+      "booking"   : "https://www.lldtek.com/salon/appt/NTY4NDd8bG91bmdlMTMyM3xDQV8wODYxOHw0MjViMDYyZTA0YmIyOGQ0NmZkYTJkMjI3OTc5N2I0MQ==",
+      "maps"      : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3148.3941336186663!2d-122.06392078440473!3d37.89784931284144!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80856106a396e455%3A0xd29c8b2ad0fa57ff!2sThe%20Lounge%20Nail%20Spa!5e0!3m2!1sen!2s!4v1676867423971!5m2!1sen!2s",
+      "map2s"     : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3150.7917312061227!2d-122.29580418440588!3d37.84176131607511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857e5caa3c4309%3A0xf64bc5f7b12a39ee!2sThe%20Lounge%20Nail%20Spa!5e0!3m2!1sen!2s!4v1676869791657!5m2!1sen!2s",
+      "map3s"     : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.0847390148565!2d-122.25173878440603!3d37.83490201647037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857dd7d87e7151%3A0xf757788791a3fa6e!2sThe%20Lounge%20Nail%20Spa!5e0!3m2!1sen!2s!4v1676869840305!5m2!1sen!2s"
+    },
+    "color": {
+      "primary"               : "#3F2B2B",
+      "primary_light"         : "#87DD2C",
+      "primary_hover"         : "#87DD2C",
+      "secondary"             : "#90C73E",
+      "secondary_hover"       : "#88BC3A",
+      "text_primary"          : "#FFFFFF",
+      "text_primary_hover"    : "#FFFFFF",
+      "text_secondary"        : "#FFFFFF",
+      "text_secondary_hover"  : "#FFFFFF",
+      "text_title"            : "#429D64",
+      "text_title_hover"      : "#90C73E"
+    },
+    "debug": "on",
+    "path_image": "images",
+    "domain": "http://127.0.0.1:5501/"
+  },
+  "specialties": [
+    {
+      "name": "specialties-01",
+      "url": "The-lounge-nail-spa-specialties-01.jpg"
+    },
+    {
+      "name": "specialties-02",
+      "url": "The-lounge-nail-spa-specialties-02.jpg"
+    },
+    {
+      "name": "specialties-03",
+      "url": "The-lounge-nail-spa-specialties-03.jpg"
+    },
+    {
+      "name": "specialties-04",
+      "url": "The-lounge-nail-spa-specialties-04.jpg"
+    },
+    {
+      "name": "specialties-05",
+      "url": "The-lounge-nail-spa-specialties-05.jpg"
+    },
+    {
+      "name": "specialties-06",
+      "url": "The-lounge-nail-spa-specialties-06.jpg"
+    },
+    {
+      "name": "specialties-07",
+      "url": "The-lounge-nail-spa-specialties-07.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "The-lounge-nail-spa-specialties-08.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "The-lounge-nail-spa-specialties-09.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "The-lounge-nail-spa-specialties-10.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "The-lounge-nail-spa-specialties-11.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "The-lounge-nail-spa-specialties-12.jpg"
+    }
+  ],
+  
+  "categories": [
+    {
+      "name": "MANI & PEDI",
+      "src": "The-lounge-nail-spa-service-01.jpg",
+      "home": true
+    },
+    {
+      "name": "ADD-ONS",
+      "src": "The-lounge-nail-spa-service-02.jpg",
+      "home": true
+    },
+    {
+      "name": "KIDS (UNDER 10 YO)",
+      "src": "The-lounge-nail-spa-service-03.jpg",
+      "home": true
+    },
+    {
+      "name": "ENHANCEMENTS",
+      "src": "The-lounge-nail-spa-service-04.jpg",
+      "home": false
+    },
+    {
+      "name": "WAXING",
+      "src": "The-lounge-nail-spa-service-05.jpg",
+      "home": false
+    }
+    
+  ],
+
+  "services": [
+    {
+      "category": "MANI & PEDI",
+      "name": "The Lounge Manicure",
+      "url": "",
+      "price": 22,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "The Deluxe Manicure",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Combo (Manicure And Pedicure)",
+      "url": "",
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Gel Manicure",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Gel Pedicure",
+      "url": "",
+      "price": 45,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "The Lounge Pedicure",
+      "url": "",
+      "price": 32,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "The Deluxe Pedicure",
+      "url": "",
+      "price": 55,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "The Mango Pedicure",
+      "url": "",
+      "price": 55,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "The Lavender Pedicure",
+      "url": "",
+      "price": 55,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Jelly Pedicure (4 Choice)",
+      "url": "",
+      "price": 65,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Regular Mani & Deluxe Pedi",
+      "url": "",
+      "price": 73,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Grand Lux",
+      "url": "",
+      "price": 80,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "The Lounge Special (Pedicure)",
+      "url": "",
+      "price": 80,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Reg Man & Jelly Ped",
+      "url": "",
+      "price": 83,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Grand Lux W/ Jelly",
+      "url": "",
+      "price": 90,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Reg Man & The Lounge Special Ped",
+      "url": "",
+      "price": 98,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Delux Man & The Lounge Special Ped",
+      "url": "",
+      "price": 105,
+      "plus": false
+    },
+    {
+      "category": "MANI & PEDI",
+      "name": "Add Gel",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "ADD-ONS",
+      "name": "Callus Removal",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "ADD-ONS",
+      "name": "Peppermint, Mango, Lavender Or Mask For Feet",
+      "url": "",
+      "price": 10,
+      "plus": true
+    },
+    {
+      "category": "ADD-ONS",
+      "name": "Extended Massage",
+      "url": "",
+      "price": 1,
+      "plus": true
+    },
+    {
+      "category": "ADD-ONS",
+      "name": "Bath Bomb",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "ADD-ONS",
+      "name": "Hot Wax (Paraffin)",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "KIDS (UNDER 10 YO)",
+      "name": "Kid Princess Manicure",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "KIDS (UNDER 10 YO)",
+      "name": "Kid Princess Pedicure",
+      "url": "",
+      "price": 27,
+      "plus": false
+    },
+    {
+      "category": "KIDS (UNDER 10 YO)",
+      "name": "Kid Combo (Manicure & Pedicure)",
+      "url": "",
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "KIDS (UNDER 10 YO)",
+      "name": "Kid Color Change (Hands Or Toes)",
+      "url": "",
+      "price": 10,
+      "plus": true
+    },
+
+
+
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Dip Powder",
+      "url": "",
+      "price": 50,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Take Off Dip Powder",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Ombre",
+      "url": "",
+      "price": 65,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Ombre Fill",
+      "url": "",
+      "price": 60,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Acrylic Full Set",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Acrylic Fill",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Acrylic Full Set + Gel Color",
+      "url": "",
+      "price": 50,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Acrylic Fill + Gel Color",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Pink & White Full Set",
+      "url": "",
+      "price": 60,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Pink & White Fill",
+      "url": "",
+      "price": 55,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "French",
+      "url": "",
+      "price": 7,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "High French",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Reshape",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Repair",
+      "url": "",
+      "price": 8,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Design",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Extra For Chrome Poder",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Cut Down",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Gel Polish Take Off (Hand)",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Gel Polish Take Off (Feet)",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Acrylic Take Off",
+      "url": "",
+      "price": 20,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Regular Polish Change (Hand)",
+      "url": "",
+      "price": 14,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Regular Polish Change (Feet)",
+      "url": "",
+      "price": 16,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Gel Polish Change (Hand)",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Gel Polish Change (Feet)",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "ENHANCEMENTS",
+      "name": "Gel Polish Change Acrylic",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "WAXING",
+      "name": "Eyebrows",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Lip",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Chin",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Cheeks",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Side Burn",
+      "url": "",
+      "price": 15,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Full Arms",
+      "url": "",
+      "price": 45,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "1/2 Arms",
+      "url": "",
+      "price": 32,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Under Arms",
+      "url": "",
+      "price": 18,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Full Legs",
+      "url": "",
+      "price": 65,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "1/2 Lower Legs",
+      "url": "",
+      "price": 38,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "1/2 Upper Legs",
+      "url": "",
+      "price": 42,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Bikini Line",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Beyond Bikini",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Brazilian",
+      "url": "",
+      "price": 50,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Chest For Men",
+      "url": "",
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Back",
+      "url": "",
+      "price": 45,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Buttocks",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Gel Polish Change Acrylic",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "French Tip",
+      "url": "",
+      "price": 8,
+      "plus": true
+    }
+  ]
+}

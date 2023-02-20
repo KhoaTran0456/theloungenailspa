@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Services | The Lounge Nail Spa</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <link rel="apple-touch-icon" href="assets/images/apple-icon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/The-lounge-nail-spa-favicon.svg">
+
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <link rel="stylesheet" href="assets/css/templatemo.css">
+
+    <link rel="stylesheet" href="assets/css/owl-carousel.css">
+    <link rel="stylesheet" href="assets/css/custom.css">
+
+    <!-- Font  -->
+    <link rel="stylesheet" href="assets/css/font-roboto.css">
+    <link rel="stylesheet" href="assets/css/font-galada.css">
+
+    <!-- Load fonts style after rendering the layout styles -->
+    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+</head>
+
+<body>
+    <div id="header"></div>
+
+
+    <!-- Start Content Page -->
+    <div class="container-fluid bg-light py-5 margin-top">
+        <div class="col-md-6 m-auto text-center">
+            <h1 class="h1"><b>Specialties</b></h1>
+            <img src="assets/images/bg-floral-title.png" alt="">
+        </div>
+    </div>
+
+
+    <!-- Start Content -->
+    <div class="container py-5">
+        <div class="row" id="loadSpecialties">
+            
+        </div>
+    </div>
+    <!-- End Content -->
+
+      <div id="footer"></div>
+
+    <!-- Start Script -->
+    <script src="assets/js/jquery-3.6.min.js"></script>
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/templatemo.js"></script>
+    <script src="assets/js/custom.js"></script>
+
+    <script type="text/javascript">
+        $(window).scroll(function () {
+
+            var a = 112;
+            var pos = $(window).scrollTop();
+            if (pos > a) {
+                $("#navigation-scroll").css({
+                    top: '0'
+                });
+            }
+            else {
+                $("#navigation-scroll").css({
+                    top: '40px'
+                })
+            }
+        });
+
+    </script>
+
+    <script src='./scripts/load_data_util.js' ></script>
+    <script>
+        $(document).ready(function () {
+            loadData("SPECIALTIES");
+        });
+    </script>
+    <script type="text/javascript">
+        $('.nav li a').click(function () {
+            // $('.nav li a.nav-link').removeClass('active');
+            $(this).addClass('.navlink-active');
+        });
+    </script>
+
+</body>
+
+</html>
